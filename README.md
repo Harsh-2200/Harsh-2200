@@ -30,7 +30,7 @@
 
 
 - 🎓 I'm Computer Science Student at DMCE, Airoli
-- 👩‍💻 I'm work as a intern at Ignitus
+- 👩‍💻 I'm work as a intern at LinkPlusAI
 - 🛠  I'm proficient with  Python and Django frame work
 - 🌱 I’m currently learning  Deep learning and  Machine Learning 
 - 👯 I’m looking to collaborate on Django and ML Projects
