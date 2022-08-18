@@ -40,6 +40,7 @@
 - ⚡ Fun fact: i also don't know 🤔
 
 ---
+<div align="center">
 
 <a href="https://github.com/Harsh-2200">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harsh-2200&show_icons=true&theme=dark&line_height=27&title_color=2EDDD5&bg_color=000000&hide_border=1" alt="Uzair's github stats"/>
@@ -51,8 +52,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Harsh-2200" alt="devded" /> </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh-2200&show_icons=true&locale=en&layout=compact&bg_color=000000&hide_border=1&title_color=2EDDD5"" alt="Harsh-2200" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh-2200&show_icons=true&locale=en&layout=compact&bg_color=000000&hide_border=1&title_color=2EDDD5&text_color=2EDDD5"" alt="Harsh-2200" /></p>
 
+</div>
+<br>
 <div align="center">
   
 ### Show some ❤️ by starring some of the repositories!
