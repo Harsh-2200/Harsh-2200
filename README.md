@@ -2,9 +2,6 @@
 <h1 align="center">:wave: Hi, I'm Harsh</h1>
 
 <p align="center">
-  <a href="https://app.slack.com/client/T7PH3KWHY/D02HQAHEQ7Q/user_profile/U02HX2XS1KM">
-    <img src="https://img.shields.io/badge/💬Harsh-FF6719?style=for-the-badge&logo=slack&logoColor=white">
-   <a/>
   <a href="https://github.com/Harsh-2200">
     <img src="https://img.shields.io/badge/💻Harsh_Harode-100000?style=for-the-badge&logo=github&logoColor=white">
    <a/>
@@ -13,10 +10,6 @@
   <a/>
   <a href="https://twitter.com/Harsh10802949">
     <img src="https://img.shields.io/badge/👀Harsh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  <a/>
-   <a href="https://www.instagram.com/ig_harsh_harode/">
-    <img src="https://img.shields.io/badge/Ig_Harsh_Harode-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  <a/>
   <a/>
    <a href="mailto:harshharodenice1@gmail.com">
     <img src="https://img.shields.io/badge/💬Harsh_Harode-E4405F?style=for-the-badge&logo=gmail&logoColor=white">
@@ -30,7 +23,7 @@
 
 
 - 🎓 I'm Computer Science Student at DMCE, Airoli
-- 👩‍💻 I'm work as a intern at LinkPlusAI
+- 👩‍💻 I'm work as a Deep learning intern at Constems-Ai
 - 🛠  I'm proficient with  Python and Django frame work
 - 🌱 I’m currently learning  Deep learning and  Machine Learning 
 - 👯 I’m looking to collaborate on Django and ML Projects
@@ -59,36 +52,3 @@
 
 
 
-
-<!-- 
-<table align="center" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td>
-      <a href="https://github.com/Harsh-2200">
-        <img src="https://github-readme-stats.vercel.app/api?username=Harsh-2200&show_icons=true&include_all_commits=true&theme=tokyonight%22">
-      <a/>
-    </td>
-    <td>
-      <a href="https://github.com/Harsh-2200">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-2200&layout=compact&theme=tokyonight">
-      <a/>
-    </td>
-  </tr>
-</table>
- -->   
-
-
-<!--
-**Harsh-2200/Harsh-2200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
