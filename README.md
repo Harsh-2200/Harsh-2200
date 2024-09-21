@@ -30,7 +30,7 @@
 - 💬 Ask me about Python
 - 💬 Besides programming, I also love Gaming
 - 📫 Shoot me a mail at `harshharodenice1@gmail.com`
-- ⚡ Fun fact: Neural networks and coffee have a lot in common: both need the right blend of inputs, a little weight adjustment, and a strong activation to wake up and deliver something brilliant! 🤔
+- ⚡ Fun fact: Neural networks and coffee need the right inputs, adjustments, and activation to deliver brilliance!🤔
 
 ---
 
