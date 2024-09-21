@@ -23,14 +23,14 @@
 
 
 - 🎓 I'm Computer Science Student at DMCE, Airoli
-- 👩‍💻 I'm work as a Deep learning intern at Constems-Ai
+- 👩‍💻 I'm work as a Ai Developer at Constems-Ai
 - 🛠  I'm proficient with  Python and Django frame work
 - 🌱 I’m currently learning  Deep learning and  Machine Learning 
 - 👯 I’m looking to collaborate on Django and ML Projects
 - 💬 Ask me about Python
 - 💬 Besides programming, I also love Gaming
 - 📫 Shoot me a mail at `harshharodenice1@gmail.com`
-- ⚡ Fun fact: i also don't know 🤔
+- ⚡ Fun fact: Neural networks and coffee have a lot in common: both need the right blend of inputs, a little weight adjustment, and a strong activation to wake up and deliver something brilliant! 🤔
 
 ---
 
